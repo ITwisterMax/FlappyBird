@@ -1,4 +1,4 @@
 # FlappyBird
-FlappyBird game
+FlappyBird Game
 
 Python FlappyBird game.
